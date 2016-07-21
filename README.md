@@ -8,6 +8,12 @@
 #Cool People 
 * David DeSandro -> Codepen/Pinterest dude
 
-#Plugins
-* Laravel
-  * Image Manipulator http://image.intervention.io/
+#FrameWorks
+ * Laravel
+  * Plugins
+   * Image Manipulator http://image.intervention.io/
+  
+ *Vue.js
+  
+#Methodologies
+ *Bem focuses on frontend reusability http://getbem.com/introduction/
