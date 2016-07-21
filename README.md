@@ -13,7 +13,9 @@
   * Plugins
    * Image Manipulator http://image.intervention.io/
   
- *Vue.js
+ * Vue.js
+  * Laracasts https://laracasts.com/series/learning-vue-step-by-step/episodes/1
+  * Api docs https://vuejs.org/api/
   
 #Methodologies
  *Bem focuses on frontend reusability http://getbem.com/introduction/
