@@ -7,3 +7,7 @@
 
 #Cool People 
 * David DeSandro -> Codepen/Pinterest dude
+
+#Plugins
+* Laravel
+  * Image Manipulator http://image.intervention.io/
