@@ -1,11 +1,12 @@
 # Resources
 
-#Grids
-* Masonry http://www.erikjohanssonphoto.com/
-* Masonry 2 http://desandro.com/
-
-
+#CSS
+ * Grids
+  * Masonry http://www.erikjohanssonphoto.com/
+  * Masonry 2 http://desandro.com/
+  * Column Layout http://www.w3schools.com/css/css3_multiple_columns.asp
 #Cool People 
+
 * David DeSandro -> Codepen/Pinterest dude
 
 #FrameWorks
@@ -19,3 +20,4 @@
   
 #Methodologies
  *Bem focuses on frontend reusability http://getbem.com/introduction/
+
