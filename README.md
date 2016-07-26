@@ -8,6 +8,7 @@
 
 #Cool People 
  * David DeSandro -> Codepen/Pinterest dude
+ * Eric Thomas -> Motivational Speaker 
 
 #FrameWorks
  * Laravel
