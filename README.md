@@ -20,5 +20,8 @@
   * Api docs https://vuejs.org/api/
   
 #Methodologies
- *Bem focuses on frontend reusability http://getbem.com/introduction/
+ * Bem focuses on frontend reusability http://getbem.com/introduction/
 
+#Podcasts
+ * Coding blocks -> 12 factor app http://www.codingblocks.net/  Lotta .net web stuff 
+ * Software engineering daily -> http://softwareengineeringdaily.com/  "1% better with every podcast"
