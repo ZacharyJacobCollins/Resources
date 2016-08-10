@@ -26,3 +26,10 @@
 #Podcasts
  * Coding blocks -> 12 factor app http://www.codingblocks.net/  Lotta .net web stuff 
  * Software engineering daily -> http://softwareengineeringdaily.com/  "1% better with every podcast"
+
+#Tools
+ * 
+ 
+#Javascript
+ * Codepen of ES6 Features http://codepen.io/collection/XRRLQO/
+ * 
