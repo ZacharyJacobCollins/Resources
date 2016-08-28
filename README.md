@@ -33,3 +33,8 @@
 #Javascript
  * Codepen of ES6 Features http://codepen.io/collection/XRRLQO/
  * 
+
+#Front End Sites
+ * http://pttrns.com/
+ * http://www.useronboard.com/
+ * http://tympanus.net/codrops/
