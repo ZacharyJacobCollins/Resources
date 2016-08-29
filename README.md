@@ -10,6 +10,7 @@
  * David DeSandro -> Codepen/Pinterest dude
  * Eric Thomas -> Motivational Speaker 
  * Haseeb Qureshi -> Air b n b altruist dude ex pro poker player, really cool software engineering guy
+ * Les Twins -> phenomenal dancers
 
 #FrameWorks
  * Laravel
