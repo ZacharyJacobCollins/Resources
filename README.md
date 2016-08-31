@@ -5,6 +5,7 @@
   * Masonry http://www.erikjohanssonphoto.com/
   * Masonry 2 http://desandro.com/
   * Column Layout http://www.w3schools.com/css/css3_multiple_columns.asp
+  * http://elementqueries.com/ greater trigger ability than media queries
 
 #Cool People 
  * David DeSandro -> Codepen/Pinterest dude
@@ -39,3 +40,4 @@
  * http://pttrns.com/
  * http://www.useronboard.com/
  * http://tympanus.net/codrops/
+ * 
