@@ -32,6 +32,7 @@
 
 #Tools
  * Awesome form building site, probably best used with devs https://www.typeform.com/
+ * Color chooser http://www.palettable.io/FCFEDE
  
 #Javascript
  * Codepen of ES6 Features http://codepen.io/collection/XRRLQO/
