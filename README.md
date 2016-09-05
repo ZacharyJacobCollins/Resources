@@ -7,6 +7,7 @@
   * Column Layout http://www.w3schools.com/css/css3_multiple_columns.asp
   * http://elementqueries.com/ greater trigger ability than media queries
   * Box Shadow technique https://css-tricks.com/snippets/css/css-box-shadow/
+  * Pretty awesome blog theme / cms
 
 #Cool People 
  * David DeSandro -> Codepen/Pinterest dude
