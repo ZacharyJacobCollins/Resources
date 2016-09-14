@@ -42,3 +42,7 @@
  * http://pttrns.com/
  * http://www.useronboard.com/
  * http://tympanus.net/codrops/
+
+#Deploying Laravel Apps
+ * .dlls are only for windows(duh) uncommenting them does nothing for linux environments
+ * 
