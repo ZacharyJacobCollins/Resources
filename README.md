@@ -44,5 +44,8 @@
  * http://tympanus.net/codrops/
 
 #Deploying Laravel Apps
+ * Step 1 Clone repository.  Step 2 Setup webserber to point at public dir.  Step 3 make sure all extensions are installed on linux/windows are enabled.  Step 4 run composer install Step 5 do a touch database/database.sqlite if using sqlite.  Step 6 php artisan migrate.  Step 7 give correct perms to the database stuff.  ex. sudo chmod 755 -R laravel_blog 
+ * chmod -R o+w laravel_blog/storage
  * .dlls are only for windows(duh) uncommenting them does nothing for linux environments
- * Make sure to give o+r priveleges * http://stackoverflow.com/questions/31543175/getting-a-500-internal-server-error-on-laravel-5-ubuntu-14-04
+ * If anything goes wrong can do a composer dump -autoload
+ * Make sure to give o+r priveleges  http://stackoverflow.com/questions/31543175/getting-a-500-internal-server-error-on-laravel-5-ubuntu-14-04
