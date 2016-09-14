@@ -45,4 +45,4 @@
 
 #Deploying Laravel Apps
  * .dlls are only for windows(duh) uncommenting them does nothing for linux environments
- * 
+ * Make sure to give o+r priveleges * http://stackoverflow.com/questions/31543175/getting-a-500-internal-server-error-on-laravel-5-ubuntu-14-04
